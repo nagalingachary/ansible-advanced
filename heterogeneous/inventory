@@ -1,0 +1,5 @@
+[centos]
+172.31.38.48 ansible_user=centos
+
+[ubuntu]
+172.31.39.4 ansible_user=ubuntu
